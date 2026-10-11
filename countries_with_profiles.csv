@@ -1,0 +1,165 @@
+country,iso_code,per_capita_electricity,low_carbon_share_elec,gdp_per_capita,profile,residual
+Afghanistan,AFG,23.658,86.458,1313.578,Scarce & low-carbon,-0.689
+Albania,ALB,2464.976,100.0,12792.059,Abundant & low-carbon,0.094
+Algeria,DZA,2011.329,0.94,13101.457,Abundant & fossil-based,-0.007
+Angola,AGO,485.758,75.563,4443.556,Scarce & low-carbon,-0.037
+Argentina,ARG,3206.71,34.16,18827.435,Abundant & fossil-based,-0.001
+Armenia,ARM,3429.508,60.729,13788.056,Abundant & low-carbon,0.197
+Australia,AUS,10416.402,32.039,51305.374,Abundant & fossil-based,-0.033
+Austria,AUT,7112.222,78.191,43996.645,Abundant & low-carbon,-0.116
+Azerbaijan,AZE,2810.99,6.358,17034.028,Abundant & fossil-based,-0.004
+Bahrain,BHR,23267.643,0.224,38324.938,Abundant & fossil-based,0.474
+Bangladesh,BGD,603.655,1.555,5066.236,Scarce & fossil-based,-0.014
+Barbados,BRB,3860.812,7.339,12071.258,Abundant & fossil-based,0.321
+Belarus,BLR,4053.094,15.976,19161.583,Abundant & fossil-based,0.091
+Belgium,BEL,8102.689,72.416,42062.036,Abundant & low-carbon,-0.035
+Benin,BEN,71.95,2.02,2419.444,Scarce & fossil-based,-0.537
+Bolivia,BOL,966.287,35.733,6472.162,Scarce & fossil-based,0.057
+Bosnia and Herzegovina,BIH,5101.719,32.049,14687.066,Abundant & fossil-based,0.335
+Botswana,BWA,1049.225,0.391,16104.778,Abundant & fossil-based,-0.402
+Brazil,BRA,3219.873,89.853,15156.043,Abundant & low-carbon,0.118
+Bulgaria,BGR,7366.103,51.889,20274.385,Abundant & low-carbon,0.32
+Burkina Faso,BFA,75.081,15.385,1658.02,Scarce & fossil-based,-0.314
+Burundi,BDI,29.277,69.231,688.913,Scarce & low-carbon,-0.246
+Cambodia,KHM,587.151,65.446,3786.632,Scarce & low-carbon,0.132
+Cameroon,CMR,294.94,64.908,2993.829,Scarce & low-carbon,-0.04
+Canada,CAN,17106.092,81.18,45369.359,Abundant & low-carbon,0.249
+Cape Verde,CPV,962.001,28.0,8179.23,Scarce & fossil-based,-0.072
+Central African Republic,CAF,27.462,100.0,735.981,Scarce & low-carbon,-0.31
+Chad,TCD,21.132,5.128,1306.833,Scarce & fossil-based,-0.735
+Chile,CHL,4656.055,55.327,22929.338,Abundant & low-carbon,0.054
+China,CHN,6208.839,34.903,18921.136,Abundant & fossil-based,0.283
+Colombia,COL,1601.533,74.354,14355.363,Abundant & low-carbon,-0.156
+Comoros,COM,167.827,0.0,2016.417,Scarce & fossil-based,-0.07
+Congo,COG,820.201,21.818,3923.547,Scarce & fossil-based,0.258
+Costa Rica,CRI,2447.969,100.0,15810.632,Abundant & low-carbon,-0.024
+Cote d'Ivoire,CIV,414.871,27.359,3996.446,Scarce & fossil-based,-0.048
+Croatia,HRV,3608.879,63.475,26179.635,Abundant & low-carbon,-0.129
+Cuba,CUB,1415.032,4.281,7609.071,Abundant & fossil-based,0.135
+Cyprus,CYP,3950.8,16.73,25729.028,Abundant & fossil-based,-0.08
+Czechia,CZE,7844.871,49.91,32133.412,Abundant & low-carbon,0.097
+Democratic Republic of Congo,COD,149.516,100.0,891.774,Scarce & low-carbon,0.322
+Denmark,DNK,5956.393,80.859,50725.738,Abundant & low-carbon,-0.27
+Djibouti,DJI,175.886,35.0,2986.262,Scarce & fossil-based,-0.263
+Dominica,DMA,2243.93,13.333,10099.152,Abundant & fossil-based,0.182
+Dominican Republic,DOM,1974.047,18.448,17023.14,Abundant & fossil-based,-0.157
+Ecuador,ECU,1854.813,76.013,9819.898,Abundant & low-carbon,0.114
+Egypt,EGY,1924.377,11.817,12967.945,Abundant & fossil-based,-0.021
+El Salvador,SLV,1055.679,90.799,9437.572,Abundant & low-carbon,-0.109
+Equatorial Guinea,GNQ,837.238,31.788,11195.359,Scarce & fossil-based,-0.302
+Estonia,EST,6621.766,31.991,29627.482,Abundant & fossil-based,0.068
+Eswatini,SWZ,451.219,96.364,7871.643,Scarce & low-carbon,-0.38
+Ethiopia,ETH,138.853,100.0,2153.198,Scarce & low-carbon,-0.188
+Finland,FIN,12958.54,88.68,40607.41,Abundant & low-carbon,0.188
+France,FRA,7068.019,87.117,40308.888,Abundant & low-carbon,-0.071
+Gabon,GAB,1312.352,47.962,14824.763,Abundant & low-carbon,-0.26
+Gambia,GMB,193.44,0.0,1766.297,Scarce & fossil-based,0.063
+Georgia,GEO,3755.156,76.211,18585.68,Abundant & low-carbon,0.074
+Germany,DEU,6741.651,50.496,46495.281,Abundant & low-carbon,-0.169
+Ghana,GHA,700.47,36.047,4387.197,Scarce & fossil-based,0.128
+Greece,GRC,4962.314,43.449,25343.88,Abundant & fossil-based,0.027
+Guatemala,GTM,755.272,84.644,8192.831,Scarce & low-carbon,-0.178
+Guinea,GIN,284.593,74.5,1684.669,Scarce & low-carbon,0.257
+Guinea-Bissau,GNB,37.995,0.0,1547.974,Scarce & fossil-based,-0.572
+Haiti,HTI,87.799,18.812,1525.689,Scarce & fossil-based,-0.2
+Honduras,HND,1082.772,59.665,4753.328,Abundant & low-carbon,0.274
+Hong Kong,HKG,4835.309,0.914,47775.871,Abundant & fossil-based,-0.328
+Hungary,HUN,3694.637,65.595,29468.83,Abundant & low-carbon,-0.183
+Iceland,ISL,52238.887,100.0,42115.899,Abundant & low-carbon,0.774
+India,IND,1266.017,22.75,7349.571,Abundant & fossil-based,0.106
+Indonesia,IDN,1196.211,19.611,12552.763,Abundant & fossil-based,-0.209
+Iran,IRN,4100.118,6.086,17561.824,Abundant & fossil-based,0.143
+Iraq,IRQ,3037.402,2.264,11972.604,Abundant & fossil-based,0.221
+Ireland,IRL,6612.505,39.213,60350.297,Abundant & fossil-based,-0.319
+Italy,ITA,4699.333,35.857,35827.597,Abundant & fossil-based,-0.184
+Jamaica,JAM,1581.459,12.918,7051.133,Abundant & fossil-based,0.225
+Japan,JPN,8324.721,25.463,38196.697,Abundant & fossil-based,0.029
+Jordan,JOR,2005.105,23.128,8820.136,Abundant & fossil-based,0.206
+Kazakhstan,KAZ,5662.201,11.707,25138.199,Abundant & fossil-based,0.089
+Kenya,KEN,238.883,87.809,3508.821,Scarce & low-carbon,-0.218
+Kuwait,KWT,18583.668,2.228,47709.023,Abundant & fossil-based,0.257
+Kyrgyzstan,KGZ,1986.833,86.107,4557.785,Abundant & low-carbon,0.56
+Laos,LAO,6752.209,76.136,7269.989,Abundant & low-carbon,0.838
+Latvia,LVA,2674.026,75.944,27244.483,Abundant & low-carbon,-0.281
+Lebanon,LBN,760.729,45.538,8484.947,Scarce & fossil-based,-0.194
+Lesotho,LSO,209.963,100.0,2082.891,Scarce & low-carbon,0.009
+Liberia,LBR,72.581,33.333,787.517,Scarce & fossil-based,0.076
+Libya,LBY,4860.32,0.028,12658.771,Abundant & fossil-based,0.395
+Lithuania,LTU,1434.189,74.752,30108.831,Abundant & low-carbon,-0.605
+Luxembourg,LUX,1852.093,85.95,55300.06,Abundant & low-carbon,-0.824
+Madagascar,MDG,86.736,35.227,1268.254,Scarce & fossil-based,-0.105
+Malawi,MWI,88.97,95.628,1286.679,Scarce & low-carbon,-0.102
+Malaysia,MYS,5292.618,19.474,25293.895,Abundant & fossil-based,0.056
+Mali,MLI,188.102,42.857,1324.126,Scarce & fossil-based,0.207
+Malta,MLT,4354.46,13.043,34637.147,Abundant & fossil-based,-0.199
+Mauritania,MRT,336.366,27.439,3214.867,Scarce & fossil-based,-0.021
+Mauritius,MUS,2444.884,19.551,21148.7,Abundant & fossil-based,-0.182
+Mexico,MEX,2644.754,27.629,15810.499,Abundant & fossil-based,0.01
+Moldova,MDA,1753.297,9.568,7838.047,Abundant & fossil-based,0.212
+Mongolia,MNG,2288.826,9.806,13233.687,Abundant & fossil-based,0.044
+Montenegro,MNE,5385.187,53.172,20783.244,Abundant & low-carbon,0.17
+Morocco,MAR,1109.323,18.184,8348.854,Abundant & fossil-based,-0.021
+Mozambique,MOZ,598.967,83.691,962.809,Scarce & low-carbon,0.883
+Myanmar,MMR,432.504,40.86,5413.736,Scarce & fossil-based,-0.195
+Namibia,NAM,456.8,98.485,7564.444,Scarce & low-carbon,-0.353
+Nepal,NPL,360.082,100.0,3229.497,Scarce & low-carbon,0.006
+Netherlands,NLD,6700.021,43.565,49128.04,Abundant & fossil-based,-0.201
+New Zealand,NZL,8427.955,86.936,39090.662,Abundant & low-carbon,0.022
+Nicaragua,NIC,641.839,64.12,4867.988,Scarce & low-carbon,0.034
+Niger,NER,31.211,2.532,978.855,Scarce & fossil-based,-0.409
+Nigeria,NGA,170.288,24.711,5083.773,Scarce & fossil-based,-0.566
+North Korea,PRK,1008.4,63.089,1537.813,Abundant & low-carbon,0.855
+North Macedonia,MKD,3227.847,27.104,15634.004,Abundant & fossil-based,0.103
+Norway,NOR,26649.338,98.645,88390.413,Abundant & low-carbon,0.079
+Oman,OMN,8963.626,4.481,37493.958,Abundant & fossil-based,0.072
+Pakistan,PAK,722.074,41.388,5411.7,Scarce & fossil-based,0.028
+Palestine,PSE,192.262,33.333,4538.22,Scarce & fossil-based,-0.451
+Panama,PAN,2783.601,77.224,21533.053,Abundant & low-carbon,-0.135
+Paraguay,PRY,6524.704,100.0,9633.61,Abundant & low-carbon,0.671
+Peru,PER,1789.372,55.242,10206.817,Abundant & low-carbon,0.078
+Philippines,PHL,978.815,22.16,8904.636,Scarce & fossil-based,-0.11
+Poland,POL,4652.771,21.103,32069.762,Abundant & fossil-based,-0.128
+Portugal,PRT,4447.506,59.594,28387.329,Abundant & low-carbon,-0.082
+Puerto Rico,PRI,6140.133,5.377,35142.293,Abundant & fossil-based,-0.058
+Qatar,QAT,18928.484,1.315,131990.525,Abundant & fossil-based,-0.287
+Romania,ROU,2855.984,63.409,26334.198,Abundant & low-carbon,-0.234
+Russia,RUS,8015.805,36.747,25631.568,Abundant & fossil-based,0.229
+Rwanda,RWA,76.185,57.692,2085.283,Scarce & low-carbon,-0.432
+Saint Lucia,LCA,2237.212,2.5,9782.689,Abundant & fossil-based,0.198
+Sao Tome and Principe,STP,397.679,11.111,3646.447,Scarce & fossil-based,-0.017
+Saudi Arabia,SAU,12737.701,0.49,56685.821,Abundant & fossil-based,-0.0
+Senegal,SEN,405.64,19.693,2941.12,Scarce & fossil-based,0.108
+Serbia,SRB,5130.157,28.186,17203.79,Abundant & fossil-based,0.252
+Seychelles,SYC,4938.94,14.516,24323.231,Abundant & fossil-based,0.047
+Sierra Leone,SLE,24.164,95.0,1411.325,Scarce & low-carbon,-0.718
+Singapore,SGP,10074.536,4.093,81736.331,Abundant & fossil-based,-0.301
+Slovakia,SVK,4849.087,81.914,27472.149,Abundant & low-carbon,-0.027
+Slovenia,SVN,6316.095,72.455,32802.729,Abundant & low-carbon,-0.008
+South Africa,ZAF,3834.179,14.099,11599.514,Abundant & fossil-based,0.339
+South Korea,KOR,12023.171,37.19,41279.545,Abundant & fossil-based,0.147
+Spain,ESP,6003.757,63.207,33978.564,Abundant & low-carbon,-0.049
+Sri Lanka,LKA,733.524,50.328,11156.076,Scarce & fossil-based,-0.358
+Sweden,SWE,16500.855,98.336,47124.891,Abundant & low-carbon,0.213
+Switzerland,CHE,7019.875,97.44,63623.009,Abundant & low-carbon,-0.322
+Syria,SYR,893.947,4.382,2330.725,Scarce & fossil-based,0.577
+Taiwan,TWN,12305.238,15.906,53282.177,Abundant & fossil-based,0.018
+Tajikistan,TJK,2110.54,92.694,4963.944,Abundant & low-carbon,0.54
+Tanzania,TZA,148.659,30.353,3063.125,Scarce & fossil-based,-0.35
+Thailand,THA,2514.382,15.79,15670.715,Abundant & fossil-based,-0.007
+Togo,TGO,111.543,20.0,1768.043,Scarce & fossil-based,-0.176
+Trinidad and Tobago,TTO,6350.594,0.105,25077.082,Abundant & fossil-based,0.14
+Tunisia,TUN,1766.598,3.036,10681.933,Abundant & fossil-based,0.047
+Turkey,TUR,3682.123,41.911,27406.827,Abundant & fossil-based,-0.145
+Turkmenistan,TKM,4508.867,0.031,13485.517,Abundant & fossil-based,0.328
+Uganda,UGA,121.532,97.391,2155.772,Scarce & low-carbon,-0.247
+Ukraine,UKR,2716.525,72.173,7531.692,Abundant & low-carbon,0.424
+United Arab Emirates,ARE,15174.645,17.919,76127.226,Abundant & fossil-based,-0.084
+United Kingdom,GBR,4760.681,56.214,38358.124,Abundant & low-carbon,-0.216
+United States,USA,12551.868,40.348,57075.336,Abundant & fossil-based,-0.01
+Uruguay,URY,4382.3,90.781,20368.033,Abundant & low-carbon,0.092
+Uzbekistan,UZB,2148.605,9.218,11264.575,Abundant & fossil-based,0.104
+Venezuela,VEN,2919.22,78.363,5305.426,Abundant & low-carbon,0.645
+Vietnam,VNM,2659.593,49.462,8364.751,Abundant & low-carbon,0.358
+Yemen,YEM,79.272,16.832,1592.057,Scarce & fossil-based,-0.268
+Zambia,ZMB,966.112,88.906,3397.5,Abundant & low-carbon,0.407
+Zimbabwe,ZWE,556.349,67.338,1611.892,Scarce & low-carbon,0.572

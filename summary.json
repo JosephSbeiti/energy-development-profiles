@@ -1,0 +1,58 @@
+{
+  "year": 2022,
+  "countries": 164,
+  "silhouette": {
+    "2": 0.394,
+    "3": 0.425,
+    "4": 0.444,
+    "5": 0.396,
+    "6": 0.364,
+    "7": 0.387
+  },
+  "k": 4,
+  "regression": {
+    "slope": 1.249,
+    "intercept": -1.833,
+    "r2": 0.831
+  },
+  "profiles": {
+    "Scarce & low-carbon": {
+      "countries": 22,
+      "median_kwh_per_person": 262,
+      "median_low_carbon_share": 87.1,
+      "median_gdp_per_person": 2119
+    },
+    "Abundant & fossil-based": {
+      "countries": 60,
+      "median_kwh_per_person": 4432,
+      "median_low_carbon_share": 15.2,
+      "median_gdp_per_person": 19041
+    },
+    "Abundant & low-carbon": {
+      "countries": 49,
+      "median_kwh_per_person": 3755,
+      "median_low_carbon_share": 76.1,
+      "median_gdp_per_person": 22929
+    },
+    "Scarce & fossil-based": {
+      "countries": 33,
+      "median_kwh_per_person": 193,
+      "median_low_carbon_share": 24.7,
+      "median_gdp_per_person": 3063
+    }
+  },
+  "most_above_prediction": [
+    "Mozambique",
+    "North Korea",
+    "Laos",
+    "Iceland",
+    "Paraguay"
+  ],
+  "most_below_prediction": [
+    "Luxembourg",
+    "Chad",
+    "Sierra Leone",
+    "Afghanistan",
+    "Lithuania"
+  ]
+}
